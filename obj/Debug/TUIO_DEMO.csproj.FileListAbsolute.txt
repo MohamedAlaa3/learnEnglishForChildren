@@ -1,0 +1,6 @@
+C:\Users\Mohamed Alaa\Source\Repos\TUIO11_NET\bin\Debug\TuioDemo.exe
+C:\Users\Mohamed Alaa\Source\Repos\TUIO11_NET\bin\Debug\TuioDemo.pdb
+C:\Users\Mohamed Alaa\Source\Repos\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.AssemblyReference.cache
+C:\Users\Mohamed Alaa\Source\Repos\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Alaa\Source\Repos\TUIO11_NET\obj\Debug\TuioDemo.exe
+C:\Users\Mohamed Alaa\Source\Repos\TUIO11_NET\obj\Debug\TuioDemo.pdb
